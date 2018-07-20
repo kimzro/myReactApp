@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import textBox from './textBox';
+import Fitymi from './Fitymi';
 
 class App extends Component {
   /*componentWillmount(){
@@ -9,9 +9,8 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        fakeittillyoumakeit        
-        <textBox/>
+      <div className="App">     
+        <Fitymi/>
       </div>
     );
   }
