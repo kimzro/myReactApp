@@ -1,15 +1,26 @@
 .color1{
     color:#1b1b1b;
+
 }
 .color2{
     color:#ffffff;
+
 }
 .color3{
     color:#767676;
+
 }
 .color4{
     color:#e60e63;
+
 }
 .color5{
     color:#707070;
+
+}
+
+.textBox{
+    text-align: center;
+    font-size: 5.5vw;
+    font-weight:bold;
 }
